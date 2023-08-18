@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background: linear-gradient(135deg, #a8e6cf, #dcedc1);
   }
   .TitleIntro h3 a {
         
