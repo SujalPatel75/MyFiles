@@ -1,5 +1,4 @@
-import { userdetails } from "./user.js";
-
+import { userdetails } from "https://cdn.jsdelivr.net/gh/SujalPatel75/MyFiles@main/js/SUJALPATEL_INTERNSHIP_userJS_230823.js";
 document.addEventListener("DOMContentLoaded", function() {
     const myfun = (val) => "Sujal " + val;
     document.getElementById("p1").textContent = myfun("Patel");
